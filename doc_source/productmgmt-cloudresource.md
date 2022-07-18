@@ -8,7 +8,7 @@
 
 1. Choose **Upload new product**\. 
 
-1. For **Enter product details**, enter the following:
+1. For **Enter product details**, enter the followisdsdsng:dsdsdsd
    + **Product name** – The name of the product\.
    + **Short description** – The short description\. This description appears in search results to help the user choose the correct product\.
    + **Description** – The full description\. This description is shown in the product listing to help the user choose the correct product\. 
